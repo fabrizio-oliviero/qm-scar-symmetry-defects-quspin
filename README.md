@@ -21,7 +21,7 @@ calculations and analysis:
 - `Entanglement_k=3_chain.ipynb`
 - `LoschmidtEcho_k1_chain.ipynb`
 
-The notebooks use exact diagonalization with QuSpin.
+The notebooks use exact diagonalization with QuSpin. LoschmidtEcho_k1_chain.ipynb corresponds to the Appendix B in the manuscript. 
 
 ### `datak3/`
 
@@ -33,7 +33,11 @@ the parameters used in the corresponding calculations.
 
 ### `datak2/`
 
-This directory contains the numerical data for the $k=2$ calculations.
+This directory contains the numerical data for the $k=2$-chain calculations.
+
+### `datak1/` 
+
+Here we have the Entanglement calculation in the presence of an Interface using as example the $k=1$-chain. 
 
 ## Requirements
 
